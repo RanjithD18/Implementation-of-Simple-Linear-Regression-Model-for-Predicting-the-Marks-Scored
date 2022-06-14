@@ -60,7 +60,7 @@ plt.ylabel("Scores")
 plt.show()
 ~~~
 ## Output:
-![simple linear regression model for predicting the marks scored](https://github.com/RanjithD18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/1.png)
+![simple linear regression model for predicting the marks scored](https://github.com/RanjithD18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/1.png)<br>
 ![simple linear regression model for predicting the marks scored](https://github.com/RanjithD18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/2.png)
 
 ## Result:
